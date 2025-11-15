@@ -1,4 +1,4 @@
-module github.com/arnodel/golua
+module github.com/vaniog/golua
 
 go 1.17
 
