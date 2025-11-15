@@ -10,10 +10,10 @@ import (
 	"os"
 	"strings"
 
-	rt "github.com/arnodel/golua/runtime"
-	"github.com/arnodel/golua/safeio"
-	"github.com/arnodel/golua/scanner"
-	"github.com/arnodel/golua/token"
+	rt "github.com/vaniog/golua/runtime"
+	"github.com/vaniog/golua/safeio"
+	"github.com/vaniog/golua/scanner"
+	"github.com/vaniog/golua/token"
 )
 
 const (

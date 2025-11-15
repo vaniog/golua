@@ -3,8 +3,8 @@ package main
 import (
 	"os"
 
-	"github.com/arnodel/golua/lib/base"
-	rt "github.com/arnodel/golua/runtime"
+	"github.com/vaniog/golua/lib/base"
+	rt "github.com/vaniog/golua/runtime"
 )
 
 // This is the Go function that we are going to call from Lua. Its inputs are:

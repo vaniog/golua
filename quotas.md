@@ -269,7 +269,7 @@ Here is a simple example of how they could be used.
 ```golang
 import (
     "os"
-    rt "github.com/arnodel/golua/runtime"
+    rt "github.com/vaniog/golua/runtime"
 
 )
 
@@ -307,7 +307,7 @@ as follows.
 ```golang
 import (
     "os"
-    rt "github.com/arnodel/golua/runtime"
+    rt "github.com/vaniog/golua/runtime"
 
 )
 

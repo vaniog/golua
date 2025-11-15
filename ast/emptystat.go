@@ -1,7 +1,7 @@
 package ast
 
 import (
-	"github.com/arnodel/golua/token"
+	"github.com/vaniog/golua/token"
 )
 
 // EmptyStat is a statement expression containing an empty statement.

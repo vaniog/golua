@@ -1,19 +1,19 @@
 package lib
 
 import (
-	"github.com/arnodel/golua/lib/base"
-	"github.com/arnodel/golua/lib/coroutine"
-	"github.com/arnodel/golua/lib/debuglib"
-	"github.com/arnodel/golua/lib/golib"
-	"github.com/arnodel/golua/lib/iolib"
-	"github.com/arnodel/golua/lib/mathlib"
-	"github.com/arnodel/golua/lib/oslib"
-	"github.com/arnodel/golua/lib/packagelib"
-	"github.com/arnodel/golua/lib/runtimelib"
-	"github.com/arnodel/golua/lib/stringlib"
-	"github.com/arnodel/golua/lib/tablelib"
-	"github.com/arnodel/golua/lib/utf8lib"
-	rt "github.com/arnodel/golua/runtime"
+	"github.com/vaniog/golua/lib/base"
+	"github.com/vaniog/golua/lib/coroutine"
+	"github.com/vaniog/golua/lib/debuglib"
+	"github.com/vaniog/golua/lib/golib"
+	"github.com/vaniog/golua/lib/iolib"
+	"github.com/vaniog/golua/lib/mathlib"
+	"github.com/vaniog/golua/lib/oslib"
+	"github.com/vaniog/golua/lib/packagelib"
+	"github.com/vaniog/golua/lib/runtimelib"
+	"github.com/vaniog/golua/lib/stringlib"
+	"github.com/vaniog/golua/lib/tablelib"
+	"github.com/vaniog/golua/lib/utf8lib"
+	rt "github.com/vaniog/golua/runtime"
 )
 
 func LoadLibs(r *rt.Runtime, loaders ...packagelib.Loader) func() {

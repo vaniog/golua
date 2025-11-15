@@ -5,7 +5,7 @@ import (
 	"runtime"
 	"runtime/debug"
 
-	rt "github.com/arnodel/golua/runtime"
+	rt "github.com/vaniog/golua/runtime"
 )
 
 var gcPercent int

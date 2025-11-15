@@ -6,9 +6,9 @@ import (
 	"os"
 	"path"
 
-	"github.com/arnodel/golua/lib/golib/goimports"
-	"github.com/arnodel/golua/lib/packagelib"
-	rt "github.com/arnodel/golua/runtime"
+	"github.com/vaniog/golua/lib/golib/goimports"
+	"github.com/vaniog/golua/lib/packagelib"
+	rt "github.com/vaniog/golua/runtime"
 )
 
 // LibLoader loads this library.

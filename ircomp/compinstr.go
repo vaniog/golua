@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"math"
 
-	"github.com/arnodel/golua/code"
-	"github.com/arnodel/golua/ir"
-	"github.com/arnodel/golua/ops"
+	"github.com/vaniog/golua/code"
+	"github.com/vaniog/golua/ir"
+	"github.com/vaniog/golua/ops"
 )
 
 type instrCompiler struct {

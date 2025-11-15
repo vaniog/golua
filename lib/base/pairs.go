@@ -1,6 +1,6 @@
 package base
 
-import rt "github.com/arnodel/golua/runtime"
+import rt "github.com/vaniog/golua/runtime"
 
 func pairs(t *rt.Thread, c *rt.GoCont) (rt.Cont, error) {
 	if err := c.Check1Arg(); err != nil {

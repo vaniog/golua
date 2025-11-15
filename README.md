@@ -1,5 +1,5 @@
 [![Build Status](https://travis-ci.com/arnodel/golua.svg?branch=master)](https://travis-ci.com/arnodel/golua)
-[![Go Report Card](https://goreportcard.com/badge/github.com/arnodel/golua)](https://goreportcard.com/report/github.com/arnodel/golua)
+[![Go Report Card](https://goreportcard.com/badge/github.com/vaniog/golua)](https://goreportcard.com/report/github.com/vaniog/golua)
 [![Coverage](https://codecov.io/gh/arnodel/golua/branch/master/graph/badge.svg)](https://codecov.io/gh/arnodel/golua)
 
 # GoLua
@@ -30,7 +30,7 @@ library is mostly implemented.
 To install, run:
 
 ```sh
-$ go get github.com/arnodel/golua
+$ go get github.com/vaniog/golua
 ```
 
 To run interactively (in a repl):
@@ -337,7 +337,7 @@ are covered with Go tests.
 
 Lua provides a test suites for each version (https://www.lua.org/tests/).  There
 is an adapted version of the 5.4.3 tests
-[here](https://github.com/arnodel/golua-tests/pull/3) which is supposed to be
+[here](https://github.com/vaniog/golua-tests/pull/3) which is supposed to be
 passed by the latest version of Golua.  It is the form of a PR so that the
 difference with the original test suite can be seen easily.
 

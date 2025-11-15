@@ -4,8 +4,8 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/arnodel/golua/parsing"
-	"github.com/arnodel/golua/token"
+	"github.com/vaniog/golua/parsing"
+	"github.com/vaniog/golua/token"
 )
 
 // A SyntaxError is a lua syntax error.

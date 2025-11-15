@@ -3,11 +3,11 @@ package main
 import (
 	"os"
 
-	"github.com/arnodel/golua/examples/userdata/regexlib"
-	"github.com/arnodel/golua/lib"
-	"github.com/arnodel/golua/lib/base"
-	"github.com/arnodel/golua/lib/packagelib"
-	rt "github.com/arnodel/golua/runtime"
+	"github.com/vaniog/golua/examples/userdata/regexlib"
+	"github.com/vaniog/golua/lib"
+	"github.com/vaniog/golua/lib/base"
+	"github.com/vaniog/golua/lib/packagelib"
+	rt "github.com/vaniog/golua/runtime"
 )
 
 const code = `

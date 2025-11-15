@@ -3,7 +3,7 @@ package runtime
 import (
 	"unsafe"
 
-	"github.com/arnodel/golua/runtime/internal/luagc"
+	"github.com/vaniog/golua/runtime/internal/luagc"
 )
 
 // Table implements a Lua table.

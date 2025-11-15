@@ -4,7 +4,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/arnodel/golua/scanner"
+	"github.com/vaniog/golua/scanner"
 )
 
 func TestRuntime_CompileAndLoadLuaChunkOrExp(t *testing.T) {

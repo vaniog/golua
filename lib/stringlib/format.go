@@ -7,8 +7,8 @@ import (
 	"strconv"
 	"unsafe"
 
-	"github.com/arnodel/golua/lib/base"
-	rt "github.com/arnodel/golua/runtime"
+	"github.com/vaniog/golua/lib/base"
+	rt "github.com/vaniog/golua/runtime"
 )
 
 func format(t *rt.Thread, c *rt.GoCont) (rt.Cont, error) {

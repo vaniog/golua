@@ -1,7 +1,7 @@
 package ast
 
 import (
-	"github.com/arnodel/golua/token"
+	"github.com/vaniog/golua/token"
 )
 
 // Name is an expression token representing a name (identifier).

@@ -7,7 +7,7 @@ import (
 	"math"
 	"unsafe"
 
-	rt "github.com/arnodel/golua/runtime"
+	rt "github.com/vaniog/golua/runtime"
 )
 
 type unpacker struct {

@@ -1,9 +1,9 @@
 package astcomp
 
 import (
-	"github.com/arnodel/golua/ast"
-	"github.com/arnodel/golua/ir"
-	"github.com/arnodel/golua/ops"
+	"github.com/vaniog/golua/ast"
+	"github.com/vaniog/golua/ir"
+	"github.com/vaniog/golua/ops"
 )
 
 //

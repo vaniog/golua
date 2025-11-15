@@ -6,9 +6,9 @@ import (
 	"math"
 	"unicode/utf8"
 
-	"github.com/arnodel/golua/lib/packagelib"
-	"github.com/arnodel/golua/luastrings"
-	rt "github.com/arnodel/golua/runtime"
+	"github.com/vaniog/golua/lib/packagelib"
+	"github.com/vaniog/golua/luastrings"
+	rt "github.com/vaniog/golua/runtime"
 )
 
 // LibLoader can load the utf8 lib.

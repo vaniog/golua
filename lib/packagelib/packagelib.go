@@ -7,7 +7,7 @@ import (
 	"os"
 	"strings"
 
-	rt "github.com/arnodel/golua/runtime"
+	rt "github.com/vaniog/golua/runtime"
 )
 
 var (

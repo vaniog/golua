@@ -6,7 +6,7 @@ import (
 	"errors"
 	"io"
 
-	"github.com/arnodel/golua/code"
+	"github.com/vaniog/golua/code"
 )
 
 var marshalPrefix = []byte{6, 0, 4}

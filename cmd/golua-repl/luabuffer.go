@@ -8,9 +8,9 @@ import (
 	"strings"
 
 	"github.com/arnodel/edit"
-	"github.com/arnodel/golua/lib"
-	"github.com/arnodel/golua/luastrings"
-	"github.com/arnodel/golua/runtime"
+	"github.com/vaniog/golua/lib"
+	"github.com/vaniog/golua/luastrings"
+	"github.com/vaniog/golua/runtime"
 )
 
 type luaLineType uint8

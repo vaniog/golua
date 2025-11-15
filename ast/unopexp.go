@@ -1,8 +1,8 @@
 package ast
 
 import (
-	"github.com/arnodel/golua/ops"
-	"github.com/arnodel/golua/token"
+	"github.com/vaniog/golua/ops"
+	"github.com/vaniog/golua/token"
 )
 
 // An UnOp is an expression node representing the application of a unary

@@ -1,7 +1,7 @@
 package scanner
 
 import (
-	"github.com/arnodel/golua/token"
+	"github.com/vaniog/golua/token"
 )
 
 func scanToken(l *Scanner) stateFn {

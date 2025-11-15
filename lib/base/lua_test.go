@@ -3,8 +3,8 @@ package base_test
 import (
 	"testing"
 
-	"github.com/arnodel/golua/lib"
-	"github.com/arnodel/golua/luatesting"
+	"github.com/vaniog/golua/lib"
+	"github.com/vaniog/golua/luatesting"
 )
 
 func TestBaseLib(t *testing.T) {

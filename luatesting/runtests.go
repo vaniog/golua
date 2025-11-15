@@ -9,7 +9,7 @@ import (
 	"strings"
 	"testing"
 
-	rt "github.com/arnodel/golua/runtime"
+	rt "github.com/vaniog/golua/runtime"
 )
 
 // RunSource compiles and runs some source code, outputting to the

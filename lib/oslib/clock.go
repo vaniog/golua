@@ -8,7 +8,7 @@ import (
 
 	"time"
 
-	rt "github.com/arnodel/golua/runtime"
+	rt "github.com/vaniog/golua/runtime"
 )
 
 func clock(t *rt.Thread, c *rt.GoCont) (rt.Cont, error) {

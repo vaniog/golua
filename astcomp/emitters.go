@@ -3,8 +3,8 @@ package astcomp
 import (
 	"fmt"
 
-	"github.com/arnodel/golua/ast"
-	"github.com/arnodel/golua/ir"
+	"github.com/vaniog/golua/ast"
+	"github.com/vaniog/golua/ir"
 )
 
 // These methods offer the convenience of not having to calculate the line

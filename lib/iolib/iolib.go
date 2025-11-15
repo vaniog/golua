@@ -10,8 +10,8 @@ import (
 	"runtime"
 	"syscall"
 
-	"github.com/arnodel/golua/lib/packagelib"
-	rt "github.com/arnodel/golua/runtime"
+	"github.com/vaniog/golua/lib/packagelib"
+	rt "github.com/vaniog/golua/runtime"
 )
 
 // BufferedStdFiles sets wether std files should be buffered

@@ -4,10 +4,10 @@ import (
 	"runtime"
 	"testing"
 
-	"github.com/arnodel/golua/lib"
-	"github.com/arnodel/golua/luatesting"
+	"github.com/vaniog/golua/lib"
+	"github.com/vaniog/golua/luatesting"
 
-	rt "github.com/arnodel/golua/runtime"
+	rt "github.com/vaniog/golua/runtime"
 )
 
 func TestRunLuaTest(t *testing.T) {

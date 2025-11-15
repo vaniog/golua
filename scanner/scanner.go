@@ -7,7 +7,7 @@ import (
 	"strings"
 	"unicode/utf8"
 
-	"github.com/arnodel/golua/token"
+	"github.com/vaniog/golua/token"
 )
 
 // Scanner holds the state of the scanner.

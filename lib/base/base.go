@@ -6,9 +6,9 @@ import (
 	"io/ioutil"
 	"os"
 
-	"github.com/arnodel/golua/lib/packagelib"
-	rt "github.com/arnodel/golua/runtime"
-	"github.com/arnodel/golua/safeio"
+	"github.com/vaniog/golua/lib/packagelib"
+	rt "github.com/vaniog/golua/runtime"
+	"github.com/vaniog/golua/safeio"
 )
 
 var LibLoader = packagelib.Loader{

@@ -4,10 +4,10 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/arnodel/golua/ast"
-	"github.com/arnodel/golua/ops"
-	"github.com/arnodel/golua/scanner"
-	"github.com/arnodel/golua/token"
+	"github.com/vaniog/golua/ast"
+	"github.com/vaniog/golua/ops"
+	"github.com/vaniog/golua/scanner"
+	"github.com/vaniog/golua/token"
 )
 
 type testScanner struct {

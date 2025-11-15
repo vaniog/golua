@@ -6,13 +6,13 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/arnodel/golua/ast"
-	"github.com/arnodel/golua/astcomp"
-	"github.com/arnodel/golua/code"
-	"github.com/arnodel/golua/ir"
-	"github.com/arnodel/golua/ircomp"
-	"github.com/arnodel/golua/parsing"
-	"github.com/arnodel/golua/scanner"
+	"github.com/vaniog/golua/ast"
+	"github.com/vaniog/golua/astcomp"
+	"github.com/vaniog/golua/code"
+	"github.com/vaniog/golua/ir"
+	"github.com/vaniog/golua/ircomp"
+	"github.com/vaniog/golua/parsing"
+	"github.com/vaniog/golua/scanner"
 )
 
 // RawGet returns the item in a table for the given key, or nil if t is nil.  It
